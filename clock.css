@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    background-color:#121212;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.clock{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border:whitesmoke solid 2px;
+
+}
